@@ -1,0 +1,48 @@
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url("https://c2.staticflickr.com/4/3865/15060692652_6e72e0b2c3_b.jpg");
+    background-size: cover;
+}
+
+.text-vertical-center {
+    text-align: center;
+    position: fixed;
+     top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "verdana";
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+    font-family: "verdana";
+   
+}
+
+body {
+    font-family: "verdana";
+}
+
+.button {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+
